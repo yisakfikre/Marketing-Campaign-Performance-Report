@@ -1,4 +1,4 @@
-# 📊 Marketing Campaign Performance Analytics Dashboard (Power BI)
+# 📊 Marketing Campaign Performance Report
 
 An interactive Power BI dashboard designed to evaluate marketing campaign effectiveness, understand customer behavior, and identify key drivers behind purchase decisions and sales growth.
 
@@ -88,3 +88,20 @@ Identifies the key factors influencing campaign acceptance and customer purchasi
 ---
 
 ## 📁 Project Structure
+
+Marketing Campaign Performance Report/  
+│  
+├── Asset/  
+│ ├── Buyers Composition.PNG  
+│ ├── Campaign Performance.PNG  
+│ ├── Purchase Drivers.PNG  
+│  
+├── Dataset/  
+│ ├── Marketing_data.csv  
+│ ├── Marketing_data_dictionary.csv  
+│  
+├── Reports/  
+│ ├── Marketing_Campaign_Performance_Report.pbix  
+│ ├── Marketing_Campaign_Performance_Report.pdf  
+│  
+├── README.md  
