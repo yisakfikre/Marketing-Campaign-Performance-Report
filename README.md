@@ -108,6 +108,21 @@ Marketing Campaign Performance Report/
 
 ---
 
+## Project Files
+
+- [Power BI Report](https://github.com/yisakfikre/Sales-Analysis-Report/blob/main/Reports/Sales_Analysis_Report.pbix)
+- [PDF Report](https://github.com/yisakfikre/Sales-Analysis-Report/blob/main/Reports/Sales_Analysis_Report.pdf)
+
+---
+
+## 🚀 How to Use This Project
+
+1. Download the Power BI (`.pbix`) file  
+2. Open it in Power BI Desktop  
+3. Explore interactive dashboards using filters and slicers
+
+---
+
 ## 📌 Business Value
 
 This dashboard helps organizations:
@@ -129,6 +144,7 @@ Microsoft Certified Data Analyst | Power BI Developer
 
 ## 📬 Connect with Me
 
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
-- 📧 Email: your.email@gmail.com  
-- 🧑‍💻 GitHub: https://github.com/yisakfikred  
+🔗 **Upwork:** [Upwork/Yisak-Fikre](https://www.upwork.com/freelancers/~018f77b25aa92fd189?mp_source=share)  
+🔗 **LinkedIn:** [Linkedin/Yisak-Fikre](https://www.linkedin.com/in/yisak-fikre-b806361bb/)  
+🔗 **GitHub:** [Github/Yisak-Fikre](https://github.com/yisakfikre)  
+🔗 **Email:** [yisakfikre@outlook.com](yisakfikre@outlook.com)  
