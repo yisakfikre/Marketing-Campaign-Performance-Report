@@ -41,7 +41,7 @@ To build an interactive Power BI Report that enables stakeholders to:
 
 ---
 
-## 📊 Report Overview
+## 📊 Dashboard Overview
 
 ### 📊 Campaign Performance
 Analyzes campaign effectiveness across sales, conversions, channels, and customer spending behavior.
