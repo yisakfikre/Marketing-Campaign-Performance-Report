@@ -1,6 +1,6 @@
 # 📊 Marketing Campaign Performance Report
 
-An interactive Power BI dashboard designed to evaluate marketing campaign effectiveness, understand customer behavior, and identify key drivers behind purchase decisions and sales growth.
+An interactive Power BI Report designed to evaluate marketing campaign effectiveness, understand customer behavior, and identify key drivers behind purchase decisions and sales growth.
 
 This project transforms raw marketing data into actionable insights to help businesses optimize campaign performance and improve ROI.
 
@@ -21,7 +21,7 @@ Without data-driven insights, marketing budgets may be inefficiently allocated.
 
 ## 🎯 Project Objective
 
-To build an interactive Power BI dashboard that enables stakeholders to:
+To build an interactive Power BI Report that enables stakeholders to:
 
 - Measure campaign performance and effectiveness  
 - Analyze customer demographics and behavior  
@@ -41,26 +41,26 @@ To build an interactive Power BI dashboard that enables stakeholders to:
 
 ---
 
-## 📊 Dashboard Overview
+## 📊 Report Overview
 
 ### 📊 Campaign Performance
 Analyzes campaign effectiveness across sales, conversions, channels, and customer spending behavior.
 
-![Campaign Performance](https://github.com/yisakfikred/marketing-campaign-performance-report/blob/main/1_Campaign%20Performance.PNG?raw=true)
+![Campaign Performance](https://github.com/yisakfikre/Marketing-Campaign-Performance-Report/blob/main/Asset/Campaign%20Performance.PNG)
 
 ---
 
 ### 👥 Buyers Composition
 Explores customer demographics including education, marital status, income, age, and family structure.
 
-![Buyers Composition](https://github.com/yisakfikred/marketing-campaign-performance-report/blob/main/2_Buyers%20Composition.PNG?raw=true)
+![Buyers Composition](https://github.com/yisakfikre/Marketing-Campaign-Performance-Report/blob/main/Asset/Buyers%20Composition.PNG)
 
 ---
 
 ### 🧠 Purchase Drivers
 Identifies the key factors influencing campaign acceptance and customer purchasing behavior.
 
-![Purchase Drivers](https://github.com/yisakfikred/marketing-campaign-performance-report/blob/main/3_Purchase%20Drivers.PNG?raw=true)
+![Purchase Drivers](https://github.com/yisakfikre/Marketing-Campaign-Performance-Report/blob/main/Asset/Purchase%20Drivers.PNG)
 
 ---
 
@@ -110,8 +110,8 @@ Marketing Campaign Performance Report/
 
 ## Project Files
 
-- [Power BI Report](https://github.com/yisakfikre/Sales-Analysis-Report/blob/main/Reports/Sales_Analysis_Report.pbix)
-- [PDF Report](https://github.com/yisakfikre/Sales-Analysis-Report/blob/main/Reports/Sales_Analysis_Report.pdf)
+- [Power BI Report](https://github.com/yisakfikre/Marketing-Campaign-Performance-Report/blob/main/Report/Marketing_Campaign_Performance_Report.pbix)
+- [PDF Report](https://github.com/yisakfikre/Marketing-Campaign-Performance-Report/blob/main/Report/Marketing_Campaign_Performance_Report.pdf)
 
 ---
 
