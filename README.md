@@ -105,3 +105,30 @@ Marketing Campaign Performance Report/
 │ ├── Marketing_Campaign_Performance_Report.pdf  
 │  
 ├── README.md  
+
+---
+
+## 📌 Business Value
+
+This dashboard helps organizations:
+
+- Improve marketing ROI  
+- Optimize campaign targeting  
+- Understand customer behavior patterns  
+- Reduce ineffective marketing spending  
+- Make data-driven strategic decisions  
+
+---
+
+## 👤 Author
+
+**Yisak F.**  
+Microsoft Certified Data Analyst | Power BI Developer  
+
+---
+
+## 📬 Connect with Me
+
+- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 📧 Email: your.email@gmail.com  
+- 🧑‍💻 GitHub: https://github.com/yisakfikred  
