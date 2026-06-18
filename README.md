@@ -1,8 +1,6 @@
 # 📊 Marketing Campaign Performance Report
 
-An interactive Power BI Report designed to evaluate marketing campaign effectiveness, understand customer behavior, and identify key drivers behind purchase decisions and sales growth.
-
-This project transforms raw marketing data into actionable insights to help businesses optimize campaign performance and improve ROI.
+An interactive Power BI Report designed to evaluate marketing campaign effectiveness, understand customer behavior, and identify key drivers behind purchase decisions and sales growth. This project transforms raw marketing data into actionable insights to help businesses optimize campaign performance and improve ROI.
 
 ---
 
