@@ -24,13 +24,13 @@ To build an interactive Power BI Report that enables stakeholders to:
 
 ## 📌 Key Insights
 
-- 🚀 Campaign 6 was the most successful campaign, generating $329,789 in revenue and accounting for 24.3% of total campaign sales.
-- 🎯 Campaign 6 achieved the highest acceptance rate at 33.4%, indicating the strongest customer engagement.
-- 🍷 Wine was the most purchased product through marketing campaigns, contributing 50.2% of campaign-generated revenue.
-- 👥 Customers aged 25–29 recorded the highest average spending at $308.8 per customer.
-- 🎓 Customers with a PhD generated the highest average sales value at $112.1.
-- 👨‍👩‍👧‍👦 Households with no children spent an average of $150.2, exceeding the overall customer average by 48.8%
-- 📊 Income was identified as the strongest predictor of campaign acceptance, highlighting its influence on purchasing decisions.
+- 🚀 **Campaign 6** was the most successful campaign, generating **$329,789 in revenue** and accounting for **24.3% of total campaign sales**.
+- 🎯 **Campaign 6** achieved the highest acceptance rate at **33.4%**, indicating the strongest customer engagement.
+- 🍷 **Wine** was the most purchased product through marketing campaigns, contributing **50.2% of campaign-generated revenue**.
+- 👥 Customers aged **25–29** recorded the highest average spending at **$308.8** per customer.
+- 🎓 Customers with **a PhD** generated the highest average sales value at **$112.1**.
+- 👨‍👩‍👧‍👦 Households with **no children** spent an average of **$150.2**, exceeding the overall customer average by **48.8%**.  
+- 📊 **Income** was identified as the strongest predictor of campaign acceptance, highlighting its influence on purchasing decisions.
 
 ---
 
