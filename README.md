@@ -26,11 +26,13 @@ To build an interactive Power BI Report that enables stakeholders to:
 
 ## 📌 Key Insights
 
-- 📈 Campaign performance varies significantly, with some campaigns achieving much higher conversion and sales impact  
-- 👥 Customer demographics (age, income, family structure) strongly influence campaign acceptance  
-- 📢 Marketing channels contribute differently to overall campaign success  
-- 💰 Income level and household composition are key predictors of purchase behavior  
-- 🧠 Understanding behavioral drivers improves future campaign targeting and ROI  
+- 🚀 Campaign 6 was the most successful campaign, generating $329,789 in revenue and accounting for 24.3% of total campaign sales.
+- 🎯 Campaign 6 achieved the highest acceptance rate at 33.4%, indicating the strongest customer engagement.
+- 🍷 Wine was the most purchased product through marketing campaigns, contributing 50.2% of campaign-generated revenue.
+- 👥 Customers aged 25–29 recorded the highest average spending at $308.8 per customer.
+- 🎓 Customers with a PhD generated the highest average sales value at $112.1.
+- 👨‍👩‍👧‍👦 Households with no children spent an average of $150.2, exceeding the overall customer average by 48.8%
+- 📊 Income was identified as the strongest predictor of campaign acceptance, highlighting its influence on purchasing decisions.
 
 ---
 
