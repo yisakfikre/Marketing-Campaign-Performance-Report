@@ -8,14 +8,7 @@ This project transforms raw marketing data into actionable insights to help busi
 
 ## 🧩 Business Problem
 
-Marketing teams invest heavily in campaigns but often lack clear visibility into:
-
-- Which campaigns generate the highest returns  
-- Which customer groups respond best  
-- What drives purchase decisions  
-- How demographics impact campaign success  
-
-Without data-driven insights, marketing budgets may be inefficiently allocated.
+Marketing teams invest heavily in campaigns but often lack visibility into which campaigns generate the highest sales, which customer groups respond best, and what factors influence purchasing behavior. Without actionable insights, marketing resources may be allocated inefficiently, reducing campaign effectiveness and return on investment.  
 
 ---
 
@@ -24,9 +17,9 @@ Without data-driven insights, marketing budgets may be inefficiently allocated.
 To build an interactive Power BI Report that enables stakeholders to:
 
 - Measure campaign performance and effectiveness  
-- Analyze customer demographics and behavior  
-- Identify key purchase drivers  
-- Evaluate marketing channel performance  
+- Analyze customer demographics and purchasing behavior  
+- Identify key drivers of campaign acceptance  
+- Evaluate the performance of marketing channels and products  
 - Support data-driven marketing decisions  
 
 ---
