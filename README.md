@@ -106,10 +106,9 @@ Investigate previous acceptance behavior to identify potential audiences for fut
 
 | Resource | Contents |
 |---|---|
-| [`powerbi/`](power%20bi/) | Power BI report files |
+| [`powerbi/`](powerbi/) | Power BI report files |
 | [`Dataset/`](Dataset/) | Source dataset, if approved for public distribution |
 | [`images/`](images/) | Report screenshots |
-| [`images`](Marketing_Campaign_Performance_Report.pdf) | PDF report |
 
 ---
 
