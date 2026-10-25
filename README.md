@@ -96,7 +96,7 @@ Investigate previous acceptance behavior to identify potential audiences for fut
 
 **Read it** — review the four screenshots above.
 
-**Open it** — download the report from [`Power BI/`](Power%20BI/) and open it in Power BI Desktop. Update the data source path if necessary.
+**Open it** — download the report from [`powerbi/`](power%20bi/) and open it in Power BI Desktop. Update the data source path if necessary.
 
 **Understand it** — explore the report's campaign comparisons, customer behavior, and targeting insights.
 
@@ -106,10 +106,10 @@ Investigate previous acceptance behavior to identify potential audiences for fut
 
 | Resource | Contents |
 |---|---|
-| [`powerbi/`](Power%20BI/) | Power BI report files |
+| [`powerbi/`](power%20bi/) | Power BI report files |
 | [`Dataset/`](Dataset/) | Source dataset, if approved for public distribution |
 | [`images/`](images/) | Report screenshots |
-| [`Marketing_Campaign_Performance_Report.pdf`](Marketing_Campaign_Performance_Report.pdf) | PDF report |
+| [`images`](Marketing_Campaign_Performance_Report.pdf) | PDF report |
 
 ---
 
@@ -131,7 +131,7 @@ Investigate previous acceptance behavior to identify potential audiences for fut
 
 **More projects:**
 
-- [Sales Analytics Report](https://github.com/yisakfikre/sales-analysis-report)
+- [Sales Analytics Report](https://github.com/yisakfikre/Sales-Analytics-Report)
 - [SaaS Growth & Unit Economics](https://github.com/yisakfikre/SaaS-Growth-and-Unit-Economics)
 - [Gross Margin Bridge](https://github.com/yisakfikre/Gross-Margin-Bridge-Dashboard)
 
