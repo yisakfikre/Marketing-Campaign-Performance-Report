@@ -69,7 +69,7 @@ Explore differences in acceptance patterns and customer characteristics to inves
 
 Explore customer characteristics and product-spending patterns to provide context for campaign comparisons and audience segmentation.
 
-### 4 · Who to Target Next — *Which customers may be promising candidates?*
+### 4 · What to Target Next — *Which customers may be promising candidates?*
 
 ![Marketing Campaign Performance Report — Who to Target Next](images/04.png)
 
