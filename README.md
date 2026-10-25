@@ -59,7 +59,7 @@ Compare campaign acceptance patterns and spending associated with customers who 
 
 ### 2 · Why Campaigns Differ — *What is associated with customer responses?*
 
-![Marketing Campaign Performance Report — Why Campaigns Differ](images/02.png)
+![Marketing Campaign Performance Report — Why Campaigns Differ](images/02new.png)
 
 Explore differences in acceptance patterns and customer characteristics to investigate why responses vary across campaigns.
 
