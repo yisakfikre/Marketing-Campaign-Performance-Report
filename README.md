@@ -62,7 +62,7 @@ Investigate previous acceptance behavior to identify potential audiences for fut
 
 | Insight | Evidence | Recommendation |
 |---|---|---|
-| **Previous acceptance matters** | Campaign 6 acceptance was approximately 8.2% among customers with no previous acceptances versus 90.9% among those with four. | Test acceptance history as a targeting signal. |
+| **Previous acceptance matters** | Campaign 6 acceptance was approximately 6.5% among customers with no previous acceptances versus 90.9% among those with four. | Test acceptance history as a targeting signal. |
 | **Customer composition matters** | Campaign 5's observed spending ratio fell from 3.07× to 1.23× after income matching. | Compare similar customer groups before drawing conclusions. |
 | **Small samples require caution** | Campaign 2 had only 30 acceptors in the audited analysis. | Validate results before reallocating resources. |
 | **Spending is not incremental revenue** | The report measures customer spending, not proven campaign-generated revenue. | Track campaign costs and attributable outcomes to assess ROI. |
