@@ -101,8 +101,6 @@ The analysis highlights behavioral associations that may help guide future campa
 - **Small campaign samples:** Campaigns with relatively few acceptors require cautious interpretation.
 - **Customer composition:** Differences in customer characteristics can influence spending comparisons and should be considered before drawing conclusions.
 
-See [Known Limitations](KNOWN_LIMITATIONS.md) and [Data Validation](DATA_VALIDATION.md).
-
 ---
 
 ## ✅ Data Validation
@@ -119,8 +117,6 @@ The spending measure is defined as the sum of six product-category spending fiel
 
 The unfiltered campaign-chart total and the accepted-population total represent different filter contexts. The difference should not be interpreted as a data error solely because the totals differ.
 
-See [Data Validation](DATA_VALIDATION.md) for the supporting methodology and reconciliation details.
-
 ---
 
 ## 🚀 How to Use
@@ -131,37 +127,16 @@ See [Data Validation](DATA_VALIDATION.md) for the supporting methodology and rec
 
 **Understand it** — review the documentation for metric logic, data structure, analytical methodology, and implementation details.
 
-**Explore the documentation:**
-
-- [Project Overview](PROJECT_OVERVIEW.md)
-- [Metric Definitions](METRIC_DEFINITIONS.md)
-- [Data Dictionary](DATA_DICTIONARY.md)
-- [Methodology](METHODOLOGY.md)
-- [Data Validation](DATA_VALIDATION.md)
-- [Known Limitations](KNOWN_LIMITATIONS.md)
-- [Design System](DESIGN_SYSTEM.md)
-- [Implementation SOP](IMPLEMENTATION_SOP.md)
-- [GitHub Release Checklist](GITHUB_RELEASE_CHECKLIST.md)
-
 ---
 
 ## 📁 Repository Structure
 
 | Resource | Contents |
 |---|---|
-| [`Power BI/`](Power%20BI/) | Power BI report files |
+| [`powerbi/`](Power%20BI/) | Power BI report files |
 | [`Dataset/`](Dataset/) | Source dataset, if approved for public distribution |
 | [`images/`](images/) | Report screenshots |
 | [`Marketing_Campaign_Performance_Report.pdf`](Marketing_Campaign_Performance_Report.pdf) | PDF report |
-| [`PROJECT_OVERVIEW.md`](PROJECT_OVERVIEW.md) | Business problem and scope |
-| [`METRIC_DEFINITIONS.md`](METRIC_DEFINITIONS.md) | Metric definitions |
-| [`DATA_DICTIONARY.md`](DATA_DICTIONARY.md) | Tables and columns |
-| [`METHODOLOGY.md`](METHODOLOGY.md) | Analytical approach |
-| [`DATA_VALIDATION.md`](DATA_VALIDATION.md) | Reconciliation evidence |
-| [`KNOWN_LIMITATIONS.md`](KNOWN_LIMITATIONS.md) | Data and analytical limitations |
-| [`DESIGN_SYSTEM.md`](DESIGN_SYSTEM.md) | Visual design standards |
-| [`IMPLEMENTATION_SOP.md`](IMPLEMENTATION_SOP.md) | Build instructions |
-| [`GITHUB_RELEASE_CHECKLIST.md`](GITHUB_RELEASE_CHECKLIST.md) | Release checklist |
 
 ---
 
