@@ -63,17 +63,17 @@ Compare campaign acceptance patterns and spending associated with customers who 
 
 Explore differences in acceptance patterns and customer characteristics to investigate why responses vary across campaigns.
 
-### 3 · Who to Target Next — *Which customers may be promising candidates?*
+### 3 · Customer Base — *What characterizes the customer population?*
 
-![Marketing Campaign Performance Report — Who to Target Next](images/03.png)
-
-Investigate previous acceptance behavior and customer characteristics to identify potential targeting opportunities for future campaign testing.
-
-### 4 · Customer Base — *What characterizes the customer population?*
-
-![Marketing Campaign Performance Report — Customer Base](images/04.png)
+![Marketing Campaign Performance Report — Customer Base](images/03.png)
 
 Explore customer characteristics and product-spending patterns to provide context for campaign comparisons and audience segmentation.
+
+### 4 · Who to Target Next — *Which customers may be promising candidates?*
+
+![Marketing Campaign Performance Report — Who to Target Next](images/04.png)
+
+Investigate previous acceptance behavior and customer characteristics to identify potential targeting opportunities for future campaign testing.
 
 ---
 
